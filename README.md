@@ -4,3 +4,4 @@ Use this tool to delete any webhooks by just entering its URL! You can delete **
 - https://nexivoid.github.io/webhookdeleter/
 - https://dcwebhookdeleter.netlify.app/
 - https://dcwebhookdeleter.vercel.app/
+- https://webhookdeleter.nexivoid.workers.dev/
